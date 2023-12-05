@@ -1,9 +1,9 @@
 <template>
   <section class="blog">
     <div class="py-8 md:py-16 text-center">
-      <h1 class="text-lg md:text-xl lg:text-4xl xl:text-6xl">Blog</h1>
+      <h1 class="text-lg md:text-xl lg:text-4xl xl:text-6xl">Letters From the Soul, for the One Who Holds My Heart ❤️</h1>
       <h2 class="text-base md:text-lg lg:text-xl xl:text-2xl">
-        Here are the letters. Please don’t stop talking to me after reading this.
+        Please don’t stop talking to me after reading this.
       </h2>
     </div>
 
