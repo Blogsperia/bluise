@@ -1,7 +1,7 @@
 {
   "title": "Home",
   "titleTemplate": "| Bluise",
-  "welcomeText": "# Letters to Palak\nHi! 👋 \nYou know who I am. This is where I pour out my heart to you. \n\nHonest. \nUnadulterated. \nUncensored. \n\nPlease don't stop talking to me after reading this.",
+  "welcomeText": "# Letters to Palak\nHi! 👋 \n\nYou know who I am. This is where I pour out my heart to you. \n\nHonest. \nUnadulterated. \nUncensored. \n\nPlease don't stop talking to me after reading this.",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
